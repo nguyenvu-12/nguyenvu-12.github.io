@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #E5E5E5;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+#main-menu a {
+  font-size: 20px;
+  color: #737373;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#main-menu a:hover {
+  color: blue;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.wrap{
+  max-width: 1000px;
+  margin: auto;
+}
+
+#banner {
+  width: 1000px;
+
+}
+#main-menu {
+  text-align: center;
+}
