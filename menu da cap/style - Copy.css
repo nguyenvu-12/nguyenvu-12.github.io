@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F8F8FF;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+#main-menu a {
+  font-size: 20px;
+  color: #000000;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#main-menu a:hover {
+  color: blue;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.box {
+  padding: 15px;
+  float: left;
+  width: 30%;
+  border: 1px solid #F8F8FF;
+  border-top-width: 5px;
+}
+
+.info {
+  border-color: #F8F8FF;
+}
+
+.contact {
+  border-color: #F8F8FF;
+}
+
+.company {
+  border-color: #F8F8FF;
+}
+
+.wrap{
+  max-width: 1000px;
+  margin: auto;
+}
+
+#banner {
+  width: 1000px;
+  text-align: center;
+
+}
+#main-menu {
+  text-align: center;
+}
+
+#banner1 {
+  text-align: center;
+}
+
+#footer {
+   clear: both;
+   padding: 30px 0;
+   text-align: left;
+}
+
+#footer p {
+  margin: 0;
+  padding: 30px 0 15px 0;
+  border-top: 1px solid #c5c5c5;
+}
+
+.thumb1 {
+  padding: 4px;
+  transition: all 0.5s ease;
+}
+
+.thumb1:hover img {
+  transform: scale(1.2);
+}
+p{
+  text-align: center;
+}
+a{
+  font-size: 20px;
+  text-align: center;
+}
+
+#main-menu1 a {
+  font-size: 20px;
+  color: #000000;
+  text-decoration: none;
+  padding: 10px;
+
+}
+
+#main-menu1 a:hover {
+  color: blue;
+}
+.col { 
+  background: #0a5173;
+  float: left;
+  padding: 30px 0 0 35px;
+  width: 330px;
+}
+ 
+.col:first-child {
+  padding: 30px 0 0 0;
+}
+ 
+h2 { 
+  background: url(extra-title-bg.jpg); 
+  color: #FFF;
+  float: left; 
+  font: bold 18px Arial, Helvetica, sans-serif; 
+  font-variant: small-caps; 
+  margin: 0 0 20px 0; 
+  padding: 9px 0 0 19px; 
+  height: 33px; 
+  width: 291px;
+}
+ 
+ul { 
+  list-style: none; 
+  margin: 0; 
+  padding: 0; 
+}
+ 
+li { 
+  background: url(extra-links-bg.jpg); 
+  float: left; 
+  height: 35px; 
+  margin: 3px 0;
+  padding: 0; 
+  width: 310px; 
+}
+ 
+li a { 
+  color: #FFF;
+  display: block;
+  float: left; 
+  font: normal 12px Verdana, Geneva, sans-serif; 
+  padding: 10px 0 0 19px; 
+  text-decoration: none;
+}
+ 
+
+
+.t1 {
+  text-align: left;
+}
