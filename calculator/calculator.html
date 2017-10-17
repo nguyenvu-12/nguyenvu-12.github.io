@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vũ Hải</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="cal.css">
+</head>
+<body>
+<h1>Javascrip Calculator</h1>
+<div id='caculator'>
+<input type='text' id='display' disabled>
+<br>
+<input type='button' value='AC' id='keys' onclick='addtoscreen("AC")'>
+<input type='button' value='←' id='keys' onclick='backspace()'>
+<input type='button' value='x²' id='keys' onclick='power()'>
+<input type='button' value='x!' id='keys' onclick='giaithua()'>
+<br>
+<input type='button' value='x³' id='keys' onclick='powerx()'>
+<input type='button' value='√' id='keys' onclick='pow()'>
+<input type='button' value='%' id='keys' onclick='phantram()'>
+<input type='button' value='+' id='keys' onclick='addtoscreen("+")'>
+<br>
+<input type='button' value='7' id='keys' onclick='addtoscreen("7")'>
+<input type='button' value='8' id='keys' onclick='addtoscreen("8")'>
+<input type='button' value='9' id='keys' onclick='addtoscreen("9")'>
+<input type='button' value='-' id='keys' onclick='addtoscreen("-")'>
+<br>
+<input type='button' value='4' id='keys' onclick='addtoscreen("4")'>
+<input type='button' value='5' id='keys' onclick='addtoscreen("5")'>
+<input type='button' value='6' id='keys' onclick='addtoscreen("6")'>
+<input type='button' value='x' id='keys' onclick='addtoscreen("*")'>
+<br>
+<input type='button' value='1' id='keys' onclick='addtoscreen("1")'>
+<input type='button' value='2' id='keys' onclick='addtoscreen("2")'>
+<input type='button' value='3' id='keys' onclick='addtoscreen("3")'>
+<input type='button' value='÷' id='keys' onclick='addtoscreen("/")'>
+<br>
+<input type='button' value='+/-' id='keys' onclick='addtoscreen("-")'>
+<input type='button' value='0' id='keys' onclick='addtoscreen("0")'>
+<input type='button' value='.' id='keys' onclick='addtoscreen(".")'>
+<input type='button' value='=' id='equal' onclick='answer()'>
+<script src="calcu.js">
+</script>
+</body>
