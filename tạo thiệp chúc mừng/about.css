@@ -1,0 +1,29 @@
+
+#t3 {
+	width: 25%;
+	position: fixed;
+	z-index: 10000;
+	animation: t3 5s linear infinite;	
+}
+#t3 img {
+	width: 100%;
+}
+ @keyframes t3 {
+ 	0% {top: 10%;}
+ 	25% {transform: translate(50%,40%) rotate(-20deg) skew(-10deg,10deg);}
+ 	50% {transform: translate(60%,60%)}
+ 	75% {transform: translate(80%,0) rotate(-20deg) skew(-10deg,10deg);}
+ 	100% {top: 10%;}
+ }
+ 
+ 
+
+
+
+
+
+
+
+
+
+
