@@ -1,0 +1,278 @@
+
+
+
+@media all and (max-width: 320px) {
+
+#a{
+	margin-left: -300px;
+}
+
+#a1{
+	margin-left: -300px;
+}
+
+#a2{
+	margin-left: -300px;
+}
+#a3{
+	margin-left: -300px;
+}
+#a4{
+	margin-left: -300px;
+}
+#a5{
+	margin-left: -300px;
+}
+#anh5{
+	margin-left: -250px
+}
+
+#anh7{
+	margin-left: -80px;
+	margin-top: -400px
+
+}
+#anh3{
+	margin-left: -460px;margin-top: 240px
+
+}
+#footer{
+	margin-top: 600px
+
+}
+
+#anh1{
+	margin-left: -460px;margin-top: 500px
+}
+#anh6{
+	margin-left: -460px;margin-top: 500px
+}
+#anh4{
+	margin-left: -460px;margin-top: 500px
+}
+#anh2{
+	margin-left: -768px;margin-top: 700px
+}
+#anh8{
+	margin-left: -768px;margin-top: 700px
+}
+#p1{
+	margin-left: -250px;margin-top: -150px
+}
+#p2{
+	margin-left: -250px
+}
+#p3{
+	margin-left: -250px
+}
+#span1{
+	margin-left: -420px
+}
+#span2{
+	margin-left: -420px
+}
+#span3{
+	margin-left: -430px
+
+}
+#span4{
+	margin-left: -430px
+}
+#span6{
+	margin-left: -750px
+}
+#span10{
+	margin-left: -750px
+
+}
+#span11{
+	margin-left: -750px
+
+}
+#span21{
+	margin-left: -750px
+
+}
+#span22{
+	margin-left: -750px
+
+}
+#span25{
+	margin-left: -750px
+
+}
+#span31{
+	margin-left: -750px
+
+}
+#span32{
+	margin-left: -750px
+
+}
+#span33{
+	margin-left: -750px
+
+}
+#button{
+	margin-left: -800px
+
+}
+#inputmail{
+	margin-left: -800px
+
+}
+#inputname{
+	margin-left: -800px
+
+}
+#spanname{
+	margin-left: -800px
+
+}
+#spanmail{
+	margin-left: -800px
+
+}
+}
+
+@media all and (min-width: 1280px) {
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;margin:0}
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+ 
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
