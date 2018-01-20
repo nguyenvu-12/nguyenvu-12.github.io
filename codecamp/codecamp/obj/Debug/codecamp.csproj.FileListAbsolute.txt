@@ -1,0 +1,7 @@
+E:\codecamp\codecamp\codecamp\bin\Debug\codecamp.exe.config
+E:\codecamp\codecamp\codecamp\bin\Debug\codecamp.exe
+E:\codecamp\codecamp\codecamp\bin\Debug\codecamp.pdb
+E:\codecamp\codecamp\codecamp\obj\Debug\codecamp.csproj.CoreCompileInputs.cache
+E:\codecamp\codecamp\codecamp\obj\Debug\codecamp.exe
+E:\codecamp\codecamp\codecamp\obj\Debug\codecamp.pdb
+E:\codecamp\codecamp\codecamp\obj\Debug\codecamp.csprojResolveAssemblyReference.cache
