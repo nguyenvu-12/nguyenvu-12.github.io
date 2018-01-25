@@ -1,0 +1,7 @@
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\bin\Debug\getemail.exe.config
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\bin\Debug\getemail.exe
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\bin\Debug\getemail.pdb
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\obj\Debug\getemail.csprojResolveAssemblyReference.cache
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\obj\Debug\getemail.csproj.CoreCompileInputs.cache
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\obj\Debug\getemail.exe
+C:\Users\smallwind\Desktop\getemail\getemail\getemail\obj\Debug\getemail.pdb
